@@ -1,6 +1,1 @@
-# repo\_tutorial
-
-
-
-hijos nuestros morirán +23
-
+# repo_tutorial
